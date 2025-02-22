@@ -1,4 +1,7 @@
 # FactorialFibonacciAssignment
+- **Name:** [SALIM IBRAHIM]
+- **Student Reg Number:** [EB3/49033/20]
+
 # Factorial and Fibonacci Sequence Calculator (C++)
 
 This repository contains a C++ program that calculates the factorial of a number and the nth number in the Fibonacci sequence, including runtime information for each calculation.
@@ -13,7 +16,5 @@ This repository contains a C++ program that calculates the factorial of a number
 - Factorial calculation runtime varies based on input size. 
 - Fibonacci calculation runtime also varies.
 
-- **Name:** [SALIM IBRAHIM]
-- **Student Reg Number:** [EB3/49033/20]
 
 
